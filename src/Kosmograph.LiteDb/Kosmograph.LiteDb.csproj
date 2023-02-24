@@ -8,7 +8,7 @@
     <OldToolsVersion>2.0</OldToolsVersion>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="LiteDb" Version="4.1.4" />
+    <PackageReference Include="LiteDb" Version="5.0.13" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Kosmograph.Model\Kosmograph.Model.csproj" />
